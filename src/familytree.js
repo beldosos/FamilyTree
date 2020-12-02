@@ -32,7 +32,7 @@ function loadFamilyTree(arry) {
         target.push({ value: item });
     }
 
-    // recursively building the tree by finfing the childrenn
+    // recursively building the tree by finding the children
     var buildTree = function(parent) {
         if (children[parent.value.node_id]) {
             parent.children = children[parent.value.node_id];
