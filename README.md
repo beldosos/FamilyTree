@@ -23,7 +23,4 @@ value: {node_id: "5", node_name: "grandkid", parent_id: "2"}
 value: {node_id: "2", node_name: "daugther", parent_id: "0"}
 
 value: {node_id: "0", node_name: "grandpa", parent_id: "null"}
-__proto__: Object
-length: 1
-__proto__: Array(0)
 
